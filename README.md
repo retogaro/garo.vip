@@ -2,7 +2,7 @@
 
 #### What
 
-The [website](https://garo.vip) of a high-end luxury travel in Melbourne, Australia.
+The [website](https://garo.vip) of a high-end luxury travel agent in Melbourne, Australia.
 
 #### Highlights
 
