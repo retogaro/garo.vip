@@ -1,26 +1,25 @@
-# Floatplane
+# Garo VIP
 
 #### What
 
-The [website](https://floatplane.dev/) of a team of programmers and engineers in Melbourne, Australia.
+The [website](https://garo.vip) of a high-end luxury travel in Melbourne, Australia.
 
 #### Highlights
 
 - Built with Gulp, Nunjucks (HTML), Dart SASS (CSS) and vanilla JS
 - Served on SSD Ubuntu Nginx servers with HTTP2 and HTTPS encryption
-- Design by [Hannah Sutton](http://hannahsuttondesign.com/)
-- Code by [Jan Werkhoven](https://github.com/janwerkhoven) and [Richard Verheyen](https://github.com/richardverheyen)
+- Code by [Reto Garo](https://github.com/retogaro)
 
 #### Get in touch
 
-Jan - <a href="mailto:jw@floatplane.dev">jw@floatplane.dev</a>  
-Richard - <a href="mailto:rv@floatplane.dev">rv@floatplane.dev</a>
+Reto - <a href="mailto:reto@garo.vip">reto@garo.vip</a>  
+
 
 #### Usage
 
 ```
-git clone git@github.com:janwerkhoven/floatplane.dev.git
-cd floatplane.dev
+git clone git@github.com:janwerkhoven/reto.vip.git
+cd garo.vip
 yarn install
 gulp serve
 open http://localhost:9000
@@ -28,6 +27,5 @@ open http://localhost:9000
 
 ---
 
-**Floatplane**  
-We write code for a living,
-engineer flying boats for fun
+**Garo VIP**  
+High-end luxury travel
