@@ -9,3 +9,6 @@
 //   });
 //   ga('send', 'pageview');
 // }
+
+console.log('JS works');
+console.log('Reto rocks!');
