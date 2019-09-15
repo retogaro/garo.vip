@@ -1,0 +1,19 @@
+header {
+  background: black;
+  display: flex;
+  a {
+    color: white;
+  }
+  img {
+    width: 200px;
+    height: auto;
+  }
+  ul {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    a {
+      margin-right: 30px;
+    }
+  }
+}
