@@ -1,6 +1,6 @@
 body#homepage {
   section#hero {
-    height: 100vh;
+    height: 80vh;
     width: 100vw;
     background: #222;
     color: #fff;
@@ -41,11 +41,13 @@ body#homepage {
     // }
   }
   section#contact {
-
   }
-}
-#specific-page-something {
-  h1 {
-    color: green;
+  section#links {
+    padding: 45px;
+    border-top: 1px solid grey;
+    margin-top: 50px;
+    li {
+      padding-top: 20px;
+    }
   }
 }
